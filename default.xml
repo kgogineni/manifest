@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<remote  name="origin" fetch=".." />
+<default revision="master" remote="origin" sync-s="true" sync-j="4" sync-c="true" />
+<project path="gigon" name="gigon.git" />
+<project path="gigon-common" name="gigon-common.git" />
+<project path="simple" name="simple.git" />
+</manifest>
